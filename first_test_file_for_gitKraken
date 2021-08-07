@@ -5,3 +5,8 @@ int mian()
 {
     std::cout << "hello world" << std::endl;
 }
+
+void aa()
+{
+    
+}
